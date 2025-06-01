@@ -56,6 +56,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
+  <img src ="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bengawith&theme=midnight_purple" alt="Commit Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bengawith&show_icons=true&theme=radical" alt="Ben's GitHub stats" />
 </p>
 

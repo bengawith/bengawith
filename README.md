@@ -18,7 +18,21 @@
 
 - 🔬 [**CurveGen**](https://github.com/bengawith/curve_gen): AI system to predict aerofoil lift curves using GRU/LSTM neural networks, CST geometry encoding, XFoil & CFD validation.
 - 🕹 [**Space Wars Game**](https://github.com/bengawith/space_wars): Python arcade shooter with pause/game-over logic and PyInstaller packaging.
-- 📨 [**Email Automation Web App**](https://github.com/bengawith/email-automation): Modular email automation application with Flask backend and frontend dashboard.
+- 📨 [**Email Automation Web App**](https://github.com/bengawith/email_automation): Modular email automation application with Flask backend and frontend dashboard.
+
+<p align="center">
+  <a href="https://github.com/bengawith/curve_gen">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bengawith&repo=curve_gen&theme=aura&show_icons=true&hide_border=true" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/bengawith/space_wars">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bengawith&repo=space_wars&theme=aura&show_icons=true&hide_border=true" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/bengawith/email_automation">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bengawith&repo=email_automation&theme=aura&show_icons=true&hide_border=true" />
+  </a>
+</p>
 
 ---
 
@@ -45,32 +59,24 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bengawith&theme=radical&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src ="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bengawith&theme=midnight_purple" alt="Commit Stats" />
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bengawith&theme=aura" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bengawith&theme=aura&layout=compact&langs_count=8&card_width=320" />
-</a>
----
-
-## 🔥 Contribution Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bengawith&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bengawith&theme=aura&hide_border=true" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bengawith&theme=aura&hide_border=true&layout=compact&langs_count=8&card_width=320" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://streak-stats.demolab.com?user=bengawith&theme=aura&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---

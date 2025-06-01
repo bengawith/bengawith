@@ -24,11 +24,9 @@
   <a href="https://github.com/bengawith/curve_gen">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bengawith&repo=curve_gen&theme=aura&show_icons=true&hide_border=true" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/bengawith/space_wars">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bengawith&repo=space_wars&theme=aura&show_icons=true&hide_border=true" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/bengawith/email_automation">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bengawith&repo=email_automation&theme=aura&show_icons=true&hide_border=true" />
   </a>
@@ -69,11 +67,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bengawith&theme=aura&hide_border=true" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bengawith&theme=aura&hide_border=true&layout=compact&langs_count=8&card_width=320" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://streak-stats.demolab.com?user=bengawith&theme=aura&hide_border=true" alt="GitHub Streak" />
   </a>

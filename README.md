@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ben Gawith</h1>
 <h3 align="center">Mechanical Engineering Graduate | Software Developer | ML Enthusiast</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Creating+Solutions+For+Any+Problem;ML%2C+AI%2C+Flask%2C+React%2C+PyTorch+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
 ---
 
 🎓 **Recently graduated** from Liverpool John Moores University (BEng Mechanical Engineering) with a passion for solving technical problems through **software, machine learning, and AI**.
 
-💻 I build complete systems; from **Flask APIs** to **React dashboards** and **PyTorch models**.  
-🚀 Currently furthering my understanding of machine learning algorithms and stepping towards LLM's and Generative AI 
+💻 I build complete systems — from **Flask APIs** to **React dashboards** and **PyTorch models**.  
+🚀 Currently furthering my understanding of machine learning algorithms and stepping towards **LLMs and Generative AI**.
 
 ---
 
@@ -41,6 +45,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bengawith&theme=radical&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -48,7 +60,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bengawith&layout=compact&theme=radical" alt="Ben's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bengawith&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bengawith&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -61,4 +81,4 @@
 
 ---
 
-_“Turning engineering knowledge into intelligent software solutions.”_
+<p align="center"><i>“Turning engineering knowledge into intelligent software solutions.”</i></p>

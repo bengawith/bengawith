@@ -59,11 +59,12 @@
   <img src ="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bengawith&theme=midnight_purple" alt="Commit Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bengawith&show_icons=true&theme=aura" alt="Ben's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bengawith&layout=compact&theme=aura" alt="Top Languages" />
-</p>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bengawith&theme=aura" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bengawith&theme=aura&layout=compact&langs_count=8&card_width=320" />
+</a>
 ---
 
 ## 🔥 Contribution Streak

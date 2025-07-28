@@ -46,6 +46,8 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)])
+![Django Rest Framework](https://img.shields.io/badge/django--rest--framework-3.12.4-blue?style=flat&logo=django&logoColor=white&color=blue)
 
 **Tools & Tech:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -54,6 +56,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-1E90FF?style=flat)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)]
 
 ---
 
